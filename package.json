@@ -1,0 +1,10 @@
+{
+  "name": "netease-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node node_modules/NeteaseCloudMusicApi/app.js"
+  },
+  "dependencies": {
+    "NeteaseCloudMusicApi": "^4.32.0"
+  }
+}
